@@ -1,0 +1,11 @@
+D:\Repositories\SimulationAI\ConsoleSimulation\obj\Debug\ConsoleSimulation.csproj.AssemblyReference.cache
+D:\Repositories\SimulationAI\ConsoleSimulation\obj\Debug\ConsoleSimulation.csproj.CoreCompileInputs.cache
+D:\Repositories\SimulationAI\ConsoleSimulation\bin\Debug\ConsoleSimulation.exe.config
+D:\Repositories\SimulationAI\ConsoleSimulation\bin\Debug\ConsoleSimulation.exe
+D:\Repositories\SimulationAI\ConsoleSimulation\bin\Debug\ConsoleSimulation.pdb
+D:\Repositories\SimulationAI\ConsoleSimulation\obj\Debug\ConsoleSimulation.exe
+D:\Repositories\SimulationAI\ConsoleSimulation\obj\Debug\ConsoleSimulation.pdb
+D:\Repositories\SimulationAI\Assets\Simulator\ConsoleSimulation.exe.config
+D:\Repositories\SimulationAI\Assets\Simulator\ConsoleSimulation.exe
+D:\Repositories\SimulationAI\Assets\Simulator\ConsoleSimulation.pdb
+D:\Repositories\SimulationAI\ConsoleSimulation\obj\Debug\ConsoleSimulation.csproj.CopyComplete

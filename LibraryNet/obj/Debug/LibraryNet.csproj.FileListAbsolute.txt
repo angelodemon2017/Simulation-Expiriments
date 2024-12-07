@@ -1,0 +1,5 @@
+D:\Repositories\SimulationAI\LibraryNet\bin\Debug\LibraryNet.dll
+D:\Repositories\SimulationAI\LibraryNet\bin\Debug\LibraryNet.pdb
+D:\Repositories\SimulationAI\LibraryNet\obj\Debug\LibraryNet.csproj.CoreCompileInputs.cache
+D:\Repositories\SimulationAI\LibraryNet\obj\Debug\LibraryNet.dll
+D:\Repositories\SimulationAI\LibraryNet\obj\Debug\LibraryNet.pdb
